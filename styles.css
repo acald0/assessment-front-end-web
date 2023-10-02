@@ -36,3 +36,29 @@ input {
 img {
 	max-width: 300px;
 }
+
+
+.children {
+	height: 10px;
+	width: 100px;
+}
+
+#box1 {
+	background-color: aliceblue;
+}
+
+#box2 {
+	background-color: gray;
+}
+
+#box3 {
+	background-color: black;
+}
+
+
+.interests {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+}
