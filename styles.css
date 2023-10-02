@@ -60,5 +60,11 @@ img {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	
+
+}
+
+
+.favButtons {
+	background-color: rgb(230, 230, 131);
+	padding: 32px 16px;
 }
